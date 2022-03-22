@@ -1,0 +1,20 @@
+@font-face { font-family: Digital-Counter; src: url('Digital-Counter.ttf'); } 
+@font-face { font-family: Roboto-Thin; src: url('Roboto-Thin.ttf'); } 
+
+.digital {
+	font-family: Digital-Counter;
+	font-size: 4.2em;
+	color: red;
+	text-align: center;
+	line-height: 100px;
+}
+
+.digital-small {
+	font-family: Roboto-Thin;
+	font-size: 2.2em;
+	color: red;
+}
+
+.popout {
+	text-decoration: none;
+}
