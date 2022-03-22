@@ -105,7 +105,7 @@ function popout() {
 	window.open(
 		"counter",
 		'popUpWindow',
-		'height=350,width=1000,left=10,top=10,resizable=no,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=yes'
+		'height=400,width=1000,left=10,top=10,resizable=no,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=yes'
 	)
 }
 
